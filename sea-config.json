@@ -1,0 +1,6 @@
+{
+    "main":"src\\dist\\evaluator.js",
+    "output":".\\blob\\sea-prep.blob",
+    "disableExperimentalSEAWarning": true,
+    "useCodeCache": true
+}

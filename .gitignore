@@ -1,0 +1,4 @@
+bin/evaluate.exe
+blob/sea-prep.blob
+src/node_modules/**
+src/package-lock.json
